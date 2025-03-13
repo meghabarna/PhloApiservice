@@ -1,0 +1,26 @@
+# Ignore the 'bin' and 'obj' folders that are created during build
+/bin/
+/obj/
+
+# Ignore NuGet package directories
+/.nuget/
+
+# Ignore NuGet package files (.nupkg)
+*.nupkg
+
+# Ignore all files with the .user extension (user-specific settings in Visual Studio)
+*.user
+
+# Ignore Visual Studio temporary files
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build log files
+*.log
+
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore the global Git ignore file
+.gitignore
