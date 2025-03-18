@@ -1,3 +1,6 @@
+# Ignore Visual Studio folders
+.vs/
+
 # Ignore the 'bin' and 'obj' folders that are created during build
 /bin/
 /obj/
